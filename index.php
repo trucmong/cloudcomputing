@@ -83,18 +83,17 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.html" class="nav-item nav-link active">Trang chủ</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Services</a>
+                <a href="about.html" class="nav-item nav-link">Giới thiệu</a>
+                <a href="service.html" class="nav-item nav-link">Dịch vụ</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Trang</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="booking.html" class="dropdown-item">Booking</a>
-                        <a href="team.html" class="dropdown-item">Technicians</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                        <a href="booking.html" class="dropdown-item">Đặt dịch vụ</a>
+                        <a href="team.html" class="dropdown-item">danh sách dịch vụ</a>
                         <a href="404.html" class="dropdown-item">404 Page</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="contact.html" class="nav-item nav-link">Liên hệ</a>
             </div>
             <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Get A Quote<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
@@ -112,9 +111,9 @@
                         <div class="container">
                             <div class="row align-items-center justify-content-center justify-content-lg-start">
                                 <div class="col-10 col-lg-7 text-center text-lg-start">
-                                    <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
-                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Repair Service Center</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
+                                    <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Dịch vụ xe //</h6>
+                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Trung tâm dịch vụ sửa chửa xe</h1>
+                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Chi tiết<i class="fa fa-arrow-right ms-3"></i></a>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                     <img class="img-fluid" src="img/carousel-1.png" alt="">
@@ -129,9 +128,9 @@
                         <div class="container">
                             <div class="row align-items-center justify-content-center justify-content-lg-start">
                                 <div class="col-10 col-lg-7 text-center text-lg-start">
-                                    <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
-                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Wash Service Center</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Learn More<i class="fa fa-arrow-right ms-3"></i></a>
+                                    <h6 class="text-white text-uppercase mb-3 animated slideInDown">// Dịch vụ xe //</h6>
+                                    <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">Trung tâm dịch vụ sửa chửa xe</h1>
+                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Chi tiết<i class="fa fa-arrow-right ms-3"></i></a>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-flex animated zoomIn">
                                     <img class="img-fluid" src="img/carousel-2.png" alt="">
@@ -144,12 +143,12 @@
             <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
                 data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
+                <span class="visually-hidden">Trước</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
                 data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
+                <span class="visually-hidden">Tiếp</span>
             </button>
         </div>
     </div>
